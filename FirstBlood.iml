@@ -9,10 +9,10 @@
         <webroots>
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/src" />
-        </sourceRoots>
       </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false" />
     </facet>
   </component>
 </module>

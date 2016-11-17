@@ -9,5 +9,6 @@
 	<levels>
 		<level name="lib" value="project"/>
 		<level name="Tomcat 7.0.67" value="application_server_libraries"/>
+		<level name="Spring-4.3.4.RELEASE" value="project"/>
 	</levels>
 </component>
